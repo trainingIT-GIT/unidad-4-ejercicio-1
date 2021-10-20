@@ -10,8 +10,7 @@ o si lo prefieres en **BitBucket**
 >- En bitBucket es recomendable copiar la URL asegurándote antes de que estás logueado con tu cuenta. Puedes comprobarlo viendo si en la URL del repositorio aparece tu nombre de usuario.
 >- El comando `git clone` te creará una subcarpeta, a menos que añadas un punto; recuerda entrar en ella para empezar a trabajar.
 
-2. De cara a empezar tú un repositorio desde cero, borra la carpeta `.git` para desvincular de 
-este repositorio al proyecto.
+2. De cara a empezar tú un repositorio desde cero, borra la carpeta `.git` para desvincular de este repositorio al proyecto.
 3. Inicializa un repositorio local. 
 4. Añade al _stage_ los archivos de los directorios 1 y 2.
 5. Comprueba con `git status` que el stage tiene lo que quieres.
